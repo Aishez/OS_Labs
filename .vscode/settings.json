@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.wmls": "javascriptlite",
+        "stdio.h": "c",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
